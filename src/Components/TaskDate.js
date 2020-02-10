@@ -1,7 +1,7 @@
 import React from "react";
 import moment from "moment";
 
-import PropTypes from "prop-types";
+
 
 export const TaskDate = ({ setTaskDate, showTaskDate, setShowTaskDate }) =>
   showTaskDate && (
